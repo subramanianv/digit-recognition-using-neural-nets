@@ -8,6 +8,11 @@ it is a 784 x 25 x 10 feed forward neural net with sigmoid activation function.
 
 Accuracy : 92.84 %
 
+Please look at sample_script.m file to see how to run the program
+
 I owe this mini project to coursera 's machine learning course .
+
+
 ======================================================================
+
 
